@@ -20,4 +20,4 @@ https://ajin1304.github.io/TODO-Application/
 
 ## Usage
 
-Feel free to use and modify this project as needed. It serves as an excellent starting point for learning and experimenting with HTML and CSS & JavaScript for web development.
+Feel free to use and modify this project as needed. It serves as an excellent starting point for learning and experimenting with HTML,CSS & JavaScript for web development.
